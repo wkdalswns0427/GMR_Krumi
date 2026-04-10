@@ -42,6 +42,7 @@ data/
 data_record/
 Download/
 assets/body_models/
+dataset/
 
 # Media files
 *.mp4
